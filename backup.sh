@@ -1,5 +1,10 @@
 #!/bin/bash
 
+<<help
+This comment is just for checking
+This is backup scripts
+help
+
 <<info
 This shell scripts take periodic backup
 eg.
